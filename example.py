@@ -1,2 +1,2 @@
 def factorial(n):
-	return 1 if n == 0 else n * factorial(n - 1)
+	return 2 if n == 0 else n * factorial(n - 1)
