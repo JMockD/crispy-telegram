@@ -7,8 +7,8 @@ Sample text
 ## Section 1
 New Line  
 line1  
-line2
-[Another repo](https://github.com/agray998/gitignore-python-example)
+line2  
+![Another repo](https://thestayathomechef.com/wp-content/uploads/2013/06/15-Minute-Italian-Summer-Garden-Pasta-1.jpg)
 ## Section 2
 Lorem ipsum,  
 dolor sic amet
