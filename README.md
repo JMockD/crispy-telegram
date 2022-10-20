@@ -12,3 +12,4 @@ line2
 ## Section 2
 Lorem ipsum,  
 dolor sic amet
+```this is a snippet```
