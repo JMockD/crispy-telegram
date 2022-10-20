@@ -8,7 +8,6 @@ Sample text
 New Line  
 line1  
 line2  
-![Another repo](https://thestayathomechef.com/wp-content/uploads/2013/06/15-Minute-Italian-Summer-Garden-Pasta-1.jpg)
 ## Section 2
 Lorem ipsum,  
 dolor sic amet
