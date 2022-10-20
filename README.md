@@ -17,4 +17,5 @@ def greet(name):
 	return f"Hello, {name}"
 ```
 | field1 | field2 | field3 |
+|--------|--------|--------|
 | val1 | val2 | val3 |
