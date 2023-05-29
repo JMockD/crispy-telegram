@@ -1,5 +1,5 @@
 # crispy-telegram
-blah blah blah jannette 
+blah blah blah jannette blah blah 
 This is a demo repo!!  
 Sample text
 ## Contents
